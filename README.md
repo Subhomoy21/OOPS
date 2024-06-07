@@ -38,11 +38,9 @@ the superclass fields and methods.
 6. POLYMORPHISM:
 -> The process of representing one form in multiple forms is known as Polymorphism.
 Different definitions of Polymorphism are:
-1. Polymorphism let us perform a single action in different ways.
-2. Polymorphism allows you to define one interface and have multiple
-implementations
-3. We can create functions or reference variables which behaves differently in a different
-programmatic context.
-4. Polymorphism means many forms.
+Polymorphism let us perform a single action in different ways.
+Polymorphism allows you to define one interface and have multiple implementations.
+We can create functions or reference variables which behaves differently in a different programmatic context.
+Polymorphism means many forms.
 
 
